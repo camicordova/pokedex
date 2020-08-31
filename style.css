@@ -1,0 +1,7 @@
+.result {
+    box-sizing:border-box;
+    min-height: 100px;
+    border: 1px solid black;
+    border-radius: 10px;
+    
+}
